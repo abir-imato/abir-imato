@@ -1,42 +1,24 @@
-# Hi there, I'm Rabiul Hasan Abir 👋
+# Hey there! 👋 I'm Rabiul Hasan Abir
 
-An aspiring Computer Science & Engineering student focused on software development, core computer science fundamentals, and competitive problem-solving with a passion for Artificial Intelligence and Machine Learning.
+**CSE Student | Problem Solver | AI/ML Enthusiast**
 
----
+I'm pursuing my B.Sc. in CSE at **University of Barishal**, building solid core programming fundamentals and solving problems on Codeforces.
 
-## 👨‍💻 About Me
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-* 🎓 **Education:** B.Sc. in Computer Science & Engineering (CSE) at **University of Barishal**
-* 📚 **Skill Development:** Learning core CS fundamentals
-* 🔭 **Current Focus:** Data Structures, Algorithms & Competitive Programming on Codeforces
-* 🎯 **Future Goals:** Specializing in **Artificial Intelligence (AI)** & **Machine Learning (ML)**
-
----
-
-## 🛠 Tech Stack & Tools
-
-**Languages:**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-**Version Control & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+📌 **Currently learning:** Data Structures, Algorithms & C Programming  
+🎯 **2026 Goal:** Master DSA & Start Machine Learning / AI Projects  
 
 ---
 
-## 📌 Profiles & Platforms
-
-* 🌐 **Codeforces:** [abir_imato](https://codeforces.com/profile/abir_imato)
-* 💻 **GitHub:** [github.com/abir-imato](https://github.com/abir-imato)
-
----
-
-## 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=abir-imato&color=blue&style=flat-square)
+| 🌐 Codeforces | 💻 GitHub Profile | 📩 Email |
+| :---: | :---: | :---: |
+| [abir_imato](https://codeforces.com/profile/abir_imato) | [github.com/abir-imato](https://github.com/abir-imato) | [rhabir2006@gmail.com](mailto:rhabir2006@gmail.com) |
 
 ---
 
-## 📫 Connect With Me
-
-* **Email:** [rhabir2006@gmail.com](mailto:rhabir2006@gmail.com)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abir-imato&color=007ec6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
