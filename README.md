@@ -7,7 +7,7 @@ An aspiring Computer Science & Engineering student focused on software developme
 ## 👨‍💻 About Me
 
 * 🎓 **Education:** B.Sc. in Computer Science & Engineering (CSE) at **University of Barishal**
-* 📚 **Skill Development:** Learning core CS fundamentals
+* 📚 **Skill Development:** Learning core CS fundamentals via **Phitron**
 * 🔭 **Current Focus:** Data Structures, Algorithms & Competitive Programming on Codeforces
 * 🎯 **Future Goals:** Specializing in **Artificial Intelligence (AI)** & **Machine Learning (ML)**
 
@@ -16,11 +16,11 @@ An aspiring Computer Science & Engineering student focused on software developme
 ## 🛠 Tech Stack & Tools
 
 **Languages:**  
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 **Version Control & Platforms:**  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -34,8 +34,8 @@ An aspiring Computer Science & Engineering student focused on software developme
 ## 📊 Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abir-imato&show_icons=true&theme=dark" alt="Abir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abir-imato&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abir-imato&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-imato&layout=compact&theme=dark&locale=en" alt="Top Languages" width="48%" />
 </p>
 
 ---
