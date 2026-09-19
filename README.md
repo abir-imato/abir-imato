@@ -7,7 +7,7 @@ An aspiring Computer Science & Engineering student focused on software developme
 ## 👨‍💻 About Me
 
 * 🎓 **Education:** B.Sc. in Computer Science & Engineering (CSE) at **University of Barishal**
-* 📚 **Skill Development:** Learning core CS fundamentals via **Phitron**
+* 📚 **Skill Development:** Learning core CS fundamentals
 * 🔭 **Current Focus:** Data Structures, Algorithms & Competitive Programming on Codeforces
 * 🎯 **Future Goals:** Specializing in **Artificial Intelligence (AI)** & **Machine Learning (ML)**
 
@@ -31,12 +31,9 @@ An aspiring Computer Science & Engineering student focused on software developme
 
 ---
 
-## 📊 Performance & Activity
+## 📊 Profile Views
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir-imato&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-imato&layout=compact&theme=dark&locale=en" alt="Top Languages" width="48%" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=abir-imato&color=blue&style=flat-square)
 
 ---
 
