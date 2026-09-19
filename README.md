@@ -34,12 +34,12 @@ An aspiring Computer Science & Engineering student focused on software developme
 ## 📊 Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir-imato&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Abir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-imato&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abir-imato&show_icons=true&theme=dark" alt="Abir's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-imato&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir-imato&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abir-imato&theme=react-dark" alt="GitHub Activity Graph" width="98%" />
 </p>
 
 ---
