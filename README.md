@@ -16,11 +16,11 @@ An aspiring Computer Science & Engineering student focused on software developme
 ## 🛠 Tech Stack & Tools
 
 **Languages:**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 
 **Version Control & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
@@ -34,12 +34,8 @@ An aspiring Computer Science & Engineering student focused on software developme
 ## 📊 Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir-imato&show_icons=true&theme=dark" alt="Abir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-imato&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abir-imato&theme=react-dark" alt="GitHub Activity Graph" width="98%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abir-imato&show_icons=true&theme=dark" alt="Abir's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abir-imato&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
