@@ -8,7 +8,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-📌 **Focus:** DSA & Competitive Programming on Codeforces
+📌 **Focus:** DSA & Competitive Programming on Codeforces<br>
 🎯 **Goal:** Master CS Fundamentals & AI/ML Projects
 
 ---
